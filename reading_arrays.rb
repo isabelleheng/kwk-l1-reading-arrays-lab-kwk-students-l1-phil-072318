@@ -37,4 +37,4 @@ def first_second_and_third_students
   STUDENT_NAMES.first_second_and_third_students
 end
 
-
+puts STUDENT_NAMES.assert_recognizes
